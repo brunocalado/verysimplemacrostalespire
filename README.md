@@ -67,7 +67,7 @@ const message = `${canvas.tokens.controlled[0].actor.name}` ;
 ```
 
 # Instalation
-You can use this link to install: https://raw.githubusercontent.com/brunocalado/rpgnextcriticos/main/module.json
+You can use this link to install: https://raw.githubusercontent.com/brunocalado/verysimplemacrostalespire/main/module.json
 
 # Mudanças
 You can read about changes at [CHANGELOG](CHANGELOG.md)
