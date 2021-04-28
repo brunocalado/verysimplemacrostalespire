@@ -1,0 +1,28 @@
+{   
+   "name": "verysimplemacrostalespire",   
+   "title": "Very Simple Macros for Talespire",
+   "description": "This macros can be used to send a dice roll to Talespire.",   
+   "author": "Mestre Digital",
+   "version": "0.0.1",
+   "minimumCoreVersion": "0.7.9",
+   "compatibleCoreVersion":"0.7.9",
+   "packs": [
+      {
+        "name": "talespire-simple-macros",
+        "label": "Talespire Simple Macros",
+        "path": "packs/talespire-simple-macros.db",
+        "entity": "Macro",
+        "module": "verysimplemacrostalespire"
+      },
+      {
+        "name": "talespire-instructions",
+        "label": "Talespire Instructions",
+        "path": "packs/talespire-instructions.db",
+        "entity": "JournalEntry",
+        "module": "verysimplemacrostalespire"
+      }     
+    ],  
+  "url": "https://github.com/brunocalado/rpgnextcriticos",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/rpgnextcriticos/main/module.json",  
+  "download": "https://codeload.github.com/brunocalado/rpgnextcriticos/zip/main"               
+}
