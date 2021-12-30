@@ -3,9 +3,9 @@
    "title": "Very Simple Macros for Talespire",
    "description": "This macros can be used to send a dice roll to Talespire.",   
    "author": "Mestre Digital",
-   "version": "0.0.3",
+   "version": "0.0.4",
    "minimumCoreVersion": "0.7.9",
-   "compatibleCoreVersion":"0.7.9",
+   "compatibleCoreVersion":"9",
    "packs": [
       {
         "name": "talespire-simple-macros",

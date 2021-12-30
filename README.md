@@ -10,7 +10,7 @@ talespire://dice/1d20
 ```
 To call it from Foundry VTT use shis macro
 ```
-window.open(`talespire://dice/1d20`};
+window.open(`talespire://dice/1d20`);
 ```
 
 # Dice Options
